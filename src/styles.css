@@ -1,0 +1,25 @@
+body {
+  margin: 192px 70px;
+  background: linear-gradient(#c0fefc, #3edbf0);
+}
+
+.container {
+  padding: 0 20px;
+}
+
+h1 {
+  padding: 0 30px;
+}
+
+h2 {
+  padding: 0 40px;
+}
+
+form {
+  padding: 0 40px;
+}
+.row {
+  padding: 0 50px;
+  font-size: 20px;
+  text-align: center;
+}
